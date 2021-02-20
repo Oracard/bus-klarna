@@ -1,8 +1,8 @@
 {
   "private": true,
   "version": "1.0.0",
-  "name": "learnwithjason-demo-base",
-  "author": "Jason Lengstorf <jason@lengstorf.com>",
+  "name": "bus-klarna",
+  "author": "Alexander Tingström <tingstrom.alexander@gmail.com>",
   "scripts": {
     "dev": "eleventy --serve",
     "build": "eleventy"
